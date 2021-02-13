@@ -1,0 +1,4 @@
+*.pyc
+roms/
+__pycache__/
+*.swp
